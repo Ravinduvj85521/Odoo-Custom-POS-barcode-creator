@@ -28,7 +28,7 @@ This module extends the standard label printing wizard and allows selecting a **
 | Label Size     | Layout               |
 | -------------- | -------------------- |
 | **50 x 38 mm** | Single label         |
-| **57 x 35 mm** | A4 sheet (21 labels) |
+| **57 x 35 mm** | A4 sheet (36 labels) |
 
 ---
 
